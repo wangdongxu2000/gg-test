@@ -15,6 +15,7 @@ public class getTest {
         System.out.println("hello git2");
         System.out.println("hello git2");
         System.out.println("hello git2");
+        System.out.println("master commit2");
 
 
 
